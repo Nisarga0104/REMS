@@ -1,0 +1,19 @@
+*{margin: 0;padding: 0;}
+
+.fa{
+	color:#b3ffec;
+}
+
+.bg-image{
+	background: url('contact.jpg');
+	height: 455px;
+	font-family: 'Varela Round', sans-serif;
+}
+
+h5{
+	color: #ffff;
+}
+
+strong{
+	color: #b3ffec;
+}

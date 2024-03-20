@@ -1,0 +1,8 @@
+*{margin: 0;padding: 0;}
+
+.row{
+	font-family: 'Varela Round', sans-serif;
+}
+.about-wrapper{
+	background-image: url('./bg-image4.jpg');
+}

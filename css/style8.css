@@ -1,0 +1,16 @@
+*{margin: 0;padding: 0;}
+
+.form{
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5));
+}
+
+.testimonial{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-overlay {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("findr.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 750px;
+}
