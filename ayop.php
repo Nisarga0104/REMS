@@ -18,10 +18,10 @@
       <div class="row col-12 justify-content-center py-4">
         <div class="row col-6 py-5 my-5">
           <div class="btn col-6">
-            <a href="sellp.php"  class="btn btn-outline-light btn-lg aa"><img src="images/sell.png"><br><b>SELL</b></a>
+            <a href="sellp.php"  class="btn btn-outline-light btn-lg aa"><img src="sell.png"><br><b>SELL</b></a>
           </div>
           <div class="btn col-6">
-            <a href="rentp.php"  class="btn btn-outline-light btn-lg aa"><img src="images/rent.png"><br><b>RENT</b></a>
+            <a href="rentp.php"  class="btn btn-outline-light btn-lg aa"><img src="rent.png"><br><b>RENT</b></a>
           </div>
         </div>
       </div>
