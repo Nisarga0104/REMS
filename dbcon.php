@@ -1,7 +1,7 @@
 <?php
-	$server = "localhost";
-	$user = "root";
-	$password = "";
+	$server = "myazdemosvr0.mysql.database.azure.com";
+	$user = "myadmin";
+	$password = "Server@1";
 	$db = "realestate";
 	$con = mysqli_connect($server,$user,$password,$db);
 	/*
